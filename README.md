@@ -1,1 +1,1 @@
-# BeageBoneBlack Projects
+# BeagleBoneBlack Projects
